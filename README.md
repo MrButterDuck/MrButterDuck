@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🖥[Festival Api](https://github.com/MrButterDuck/Festival_Api)  10.06.2025✅<br>🖥[Web Ar with Hand gesture controle](https://github.com/MrButterDuck/Diplom)  10.06.2025✅<br>🖥[Literature Classificator](https://github.com/MrButterDuck/literature_classification)  25.05.2025✅<br>🖥[Fit Fuel](https://github.com/MrButterDuck/FitFule)  07.03.2025✅</p>
+🖥 [Festival Api](https://github.com/MrButterDuck/Festival_Api)  10.06.2025✅<br>🖥 [Web Ar with Hand gesture controle](https://github.com/MrButterDuck/Diplom)  10.06.2025✅<br>🖥 [Literature Classificator](https://github.com/MrButterDuck/literature_classification)  25.05.2025✅<br>🖥 [Fit Fuel](https://github.com/MrButterDuck/FitFule)  07.03.2025✅<br>🖥 [Fit Fuel](https://github.com/Oidaho/Pyxpp)  18.12.2024✅
 
 ###
 
